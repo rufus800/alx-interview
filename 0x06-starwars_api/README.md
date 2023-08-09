@@ -1,2 +1,1 @@
-my read me on starwars api 
-git add .
+#0x06-starwars_api
